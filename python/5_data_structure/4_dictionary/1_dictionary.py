@@ -10,3 +10,9 @@ print(type(d))
 print(d)
 
 #d={"key":"value"}
+
+"""
+[list]
+{,dis}
+(set)
+{tuple"} """
