@@ -2,7 +2,8 @@
     #1_list
         #1_list.py
 
-L = ["aung aung", 1234567, "myanmar"]
+L = ["Aung Aung", 1234567, "Myanmar"]
 
 print(type(L))
+
 print(L)

@@ -1,7 +1,6 @@
-#3_set
-#1_set.py
-
+#9_set_clear.py
 s = {'a', 'b', 'c', 'd', 'd'}
+print(s)
 
-print(type(s))
+s.clear()
 print(s)

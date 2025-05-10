@@ -1,0 +1,10 @@
+data_structure/ReadMe.txt
+
+immutable = cannot modfied
+mutable = can add or remove
+
+ 		C R U D
+list  	1 1 1 1 []
+tuple	0 1 0 0 ()
+set		1 0 0 1 []
+dict	1 1 1 1 []

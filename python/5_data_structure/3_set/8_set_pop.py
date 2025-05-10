@@ -1,7 +1,8 @@
-#3_set
-#1_set.py
+#8_set_pop.py
 
 s = {'a', 'b', 'c', 'd', 'd'}
+print(s)
 
-print(type(s))
+s.pop()
+s.pop()
 print(s)
